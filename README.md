@@ -1,6 +1,7 @@
 # financial_aplication
 A financial application using Node.js and RabbitMQ
 
+bitcoin-candle-generator
 
 Candlestick Generator
 - Node.js
