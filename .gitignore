@@ -1,0 +1,23 @@
+# .gitignore
+
+# Ignora a pasta node_modules
+node_modules/
+
+# Ignora o arquivo .env que contém variáveis de ambiente
+.env
+
+# Ignora a pasta de logs
+logs
+
+# Ignora a pasta de build
+dist/
+
+# Ignora a pasta de cache
+.nyc_output
+
+# Ignora arquivos de log
+*.log
+
+# Ignora arquivos de lock
+yarn.lock
+package-lock.json
