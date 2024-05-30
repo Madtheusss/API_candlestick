@@ -1,23 +1,10 @@
-# financial_aplication
+# Job_candle-generator
 A financial application using Node.js and RabbitMQ
 
 bitcoin-candle-generator
 
-Candlestick Generator
+Job_candle-generator
 - Node.js
 - Typescript
 - amqplib
 - Docker
-
-API Candles (BackEnd)
-- Node
-- Typescript
-- Express
-- ampqlib
-- Socket.io
-- Mongoose
-
-FrontEnd
-- Vue 3 (Vuex 4 + Class Components)
-- Axios
-- Socket.io (Client)
